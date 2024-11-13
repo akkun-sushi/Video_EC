@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useRef, useState } from "react";
+import { useEffect } from "react";
 import PriorRegistration from "./components/PriorRegistration";
 
 export default function Home() {
