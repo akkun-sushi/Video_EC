@@ -7,7 +7,7 @@ import Modal from "./Modal";
 const PriorRegistration = () => {
   const [modal, setModal] = useState(false);
   return (
-    <div className="bg-slate-800 w-full min-h-screen flex flex-col justify-center items-center">
+    <div className="bg-slate-800 w-full min-h-screen flex flex-col justify-center items-center lg:mt-60">
       <h1 className="text-sky-400 font-bold text-4xl sm:text-6xl lg:text-8xl -mt-20 cursor-default">
         事前登録受付中！
       </h1>

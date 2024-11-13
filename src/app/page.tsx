@@ -81,7 +81,7 @@ export default function Home() {
           />
         </section>
 
-        <section className="container w-full min-h-screen relative">
+        <section className="container w-full min-h-screen relative lg:mt-60 lg:mb-40">
           <div className="bg-slate-100 border border-neutral-950 rounded-xl text-slate-800 p-5 sm:p-7 lg:p-10 absolute left-5 top-0 lg:top-56 z-10">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold">
               2. 共同購入
